@@ -8,7 +8,7 @@ hero_text: "Questo è una modifica. La didattica dei corsi di laurea triennale e
 news:
   - title: "CONSEGNA PIANO DI STUDIO"
     date: "22-11-2024"
-    author: "Simone"
+    author: "Stilitano"
     description: "Si comunica che alla sezione Didattica/Piani di studio è possibile scaricare il nuovo modulo da consegnare entro il 15 gennaio 2025. Si ricorda che il piano di studio va presentato dagli studenti iscritti al terzo anno."
   - title: "Informazione"
     date: "Data"
