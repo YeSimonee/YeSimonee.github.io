@@ -33,20 +33,6 @@ news:
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
       laborum illum accusamus expedita quis iusto dolorum cupiditate fugiat
       minima nobis.
-  - title: Informazione
-    date: Data
-    author: Autore
-    description: >-
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
-      laborum illum accusamus expedita quis iusto dolorum cupiditate fugiat
-      minima nobis.
-  - title: Informazione
-    date: Data
-    author: Autore
-    description: >-
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
-      laborum illum accusamus expedita quis iusto dolorum cupiditate fugiat
-      minima nobis.
 research:
   - title: Intelligenza Artificiale
     image: /assets/img/Tor vergata/AI.jpeg
