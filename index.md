@@ -4,7 +4,7 @@ title: Home
 hero_image: /assets/img/Tor vergata/MacroariaScienze1.jpg
 hero_title: DOVE SIAMO
 hero_text: >-
-  Questo è una modifica. La didattica dei corsi di laurea triennale e magistrale
+  La didattica dei corsi di laurea triennale e magistrale
   in Informatica ha luogo all’interno del Campus Universitario di Tor Vergata,
   presso gli edifici della macro-area di Scienze, in via della Ricerca
   Scientifica. La sede dispone di ampi parcheggi gratuiti a pochi metri dagli
